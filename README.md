@@ -6,6 +6,7 @@ Group project for **DATA 245 – Machine Learning Technologies**.
 
 - Ritika Neema
 - Sneha Singh
+- Centhurvelan Ramalingam Sakthivel
 - Rajesh Paruchuri
 
 ## Project description
@@ -43,9 +44,11 @@ that:
   [Kaggle](https://www.kaggle.com/datasets/ealaxi/paysim1) and place it in this
   directory before running `01_eda_paysim.ipynb`.
 - **The Streamlit deployment app** (`app.py`, model artifacts, `MODEL_CARD.md`)
-  referenced in the notebook's later sections — that layer lives outside this
-  repo; the notebook itself is fully self-contained for the analysis/modeling
-  work.
+  referenced in the notebook's later sections — per the accompanying paper's
+  reproducibility statement, the canonical source for the notebook, source
+  code, and deployment prototype together is
+  [Snehasingh-21/PaySim-Fraud-Triage](https://github.com/Snehasingh-21/PaySim-Fraud-Triage).
+  This repo is a notebook-only mirror for the analysis/modeling work.
 
 ## Key result
 
