@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Raw dataset (534MB, download from Kaggle - see README) and generated artifacts
+PS_20174392719_1491204439457_log.csv
+*.joblib
+artifacts/
